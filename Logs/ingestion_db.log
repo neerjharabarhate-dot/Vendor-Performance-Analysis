@@ -1,0 +1,27 @@
+2026-11-03 01:14:07,504 - INFO - Logging started
+2026-11-03 01:33:15,598 - INFO - Logging started
+2026-11-03 01:33:18,694 - INFO - begin_inventory imported successfully
+2026-11-03 01:33:21,863 - INFO - end_inventory imported successfully
+2026-11-03 01:34:11,131 - INFO - purchases imported successfully
+2026-11-03 01:34:11,359 - INFO - purchase_prices imported successfully
+2026-11-03 01:38:29,419 - INFO - sales imported successfully
+2026-11-03 01:38:29,579 - INFO - vendor_invoice imported successfully
+2026-11-03 01:38:29,579 - INFO - Total execution time: 313.9788691997528 seconds
+2026-11-03 02:15:18,904 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 02:15:18,908 - WARNING - No such comm: e38e9c6e-c8dd-4034-82ae-a0625c42913a
+2026-11-03 02:44:12,875 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 02:44:12,878 - WARNING - No such comm: 2182902b-4b93-4678-ad81-e6be58d2cefb
+2026-11-03 03:03:52,913 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 03:03:52,917 - WARNING - No such comm: 31e4e549-68e9-4d8f-9a14-7a67716ecb30
+2026-11-03 03:06:47,909 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 03:06:47,915 - WARNING - No such comm: 3fddb185-e32c-4350-b5a4-8f7628640f6b
+2026-11-03 10:41:32,806 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 10:41:32,808 - WARNING - No such comm: dfde1544-9e0f-4a9c-90fc-b4dd36507479
+2026-11-03 11:39:34,885 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 11:39:34,889 - WARNING - No such comm: d5e45aed-b828-4c04-b68b-9f45704954f3
+2026-11-03 11:57:31,679 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 11:57:31,682 - WARNING - No such comm: 2076478c-80e4-4c59-a841-87ede9cac1cb
+2026-11-03 12:10:41,899 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 12:10:41,901 - WARNING - No such comm: 5cf5cf7d-df44-4e50-ae6d-180063af28f3
+2026-11-03 12:50:39,887 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-03 12:50:39,889 - WARNING - No such comm: f2cfeae6-b60e-4d25-823c-89d8ede539ef

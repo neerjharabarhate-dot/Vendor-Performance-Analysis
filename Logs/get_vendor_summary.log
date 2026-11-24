@@ -1,0 +1,119 @@
+2026-11-04 03:37:57,276 - INFO - Loading Vendor Summary Table
+2026-11-04 03:37:57,403 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description  total_pur_qty  total_pur_dollars  \
+0  Ch Lilian 09 Ladouys St Este              8             190.88   
+1  Flavor Essence Variety 5 Pak            320            5440.00   
+2       Ethyl Alcohol 200 Proof              1             105.07   
+3   Bak's Krupnik Honey Liqueur             39             446.16   
+4                  Vesica Vodka              6              66.60   
+
+   avg_retail_price  avg_purchase_price  TotalSalesQuantity  \
+0             36.99               23.86                18.0   
+1             24.99               17.00                24.0   
+2            134.49              105.07                 NaN   
+3             14.99               11.44                47.0   
+4             14.99               11.10                 NaN   
+
+   TotalSalesDollars  TotalFreight  GrossProfit  ProfitMargin  StockTurnover  \
+0             665.82         27.08       474.94     71.331591       2.250000   
+1             599.76         27.08     -4840.24   -807.029478       0.075000   
+2                NaN          0.48          NaN           NaN            NaN   
+3             704.53        367.52       258.37     36.672675       1.205128   
+4                NaN        367.52          NaN           NaN            NaN   
+
+   SalesToPurchaseRatio  
+0              3.488160  
+1              0.110250  
+2                   NaN  
+3              1.579097  
+4                   NaN  
+2026-11-04 03:37:57,420 - INFO - Cleaning Data
+2026-11-04 03:37:57,420 - INFO - Cleaning data started
+2026-11-04 03:37:57,421 - ERROR - Error: 'Volume'
+2026-11-04 03:37:57,423 - INFO - Total execution time: 0.15 seconds
+2026-11-04 03:38:56,238 - INFO - Loading Vendor Summary Table
+2026-11-04 03:38:56,344 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description  total_pur_qty  total_pur_dollars  \
+0  Ch Lilian 09 Ladouys St Este              8             190.88   
+1  Flavor Essence Variety 5 Pak            320            5440.00   
+2       Ethyl Alcohol 200 Proof              1             105.07   
+3   Bak's Krupnik Honey Liqueur             39             446.16   
+4                  Vesica Vodka              6              66.60   
+
+   avg_retail_price  avg_purchase_price  TotalSalesQuantity  \
+0             36.99               23.86                18.0   
+1             24.99               17.00                24.0   
+2            134.49              105.07                 NaN   
+3             14.99               11.44                47.0   
+4             14.99               11.10                 NaN   
+
+   TotalSalesDollars  TotalFreight  GrossProfit  ProfitMargin  StockTurnover  \
+0             665.82         27.08       474.94     71.331591       2.250000   
+1             599.76         27.08     -4840.24   -807.029478       0.075000   
+2                NaN          0.48          NaN           NaN            NaN   
+3             704.53        367.52       258.37     36.672675       1.205128   
+4                NaN        367.52          NaN           NaN            NaN   
+
+   SalesToPurchaseRatio  
+0              3.488160  
+1              0.110250  
+2                   NaN  
+3              1.579097  
+4                   NaN  
+2026-11-04 03:38:56,352 - INFO - Cleaning Data
+2026-11-04 03:38:56,352 - INFO - Cleaning data started
+2026-11-04 03:38:56,389 - INFO - Cleaning data completed
+2026-11-04 03:38:56,389 - INFO -    VendorNumber                     VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP  90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP  90609   
+2            54    AAPER ALCOHOL & CHEMICAL CO    990   
+3            60        ADAMBA IMPORTS INTL INC    771   
+4            60        ADAMBA IMPORTS INTL INC   3401   
+
+                    Description  total_pur_qty  total_pur_dollars  \
+0  Ch Lilian 09 Ladouys St Este              8             190.88   
+1  Flavor Essence Variety 5 Pak            320            5440.00   
+2       Ethyl Alcohol 200 Proof              1             105.07   
+3   Bak's Krupnik Honey Liqueur             39             446.16   
+4                  Vesica Vodka              6              66.60   
+
+   avg_retail_price  avg_purchase_price  TotalSalesQuantity  \
+0             36.99               23.86                18.0   
+1             24.99               17.00                24.0   
+2            134.49              105.07                 0.0   
+3             14.99               11.44                47.0   
+4             14.99               11.10                 0.0   
+
+   TotalSalesDollars  TotalFreight  GrossProfit  ProfitMargin  StockTurnover  \
+0             665.82         27.08       474.94     71.331591       2.250000   
+1             599.76         27.08     -4840.24   -807.029478       0.075000   
+2               0.00          0.48      -105.07      0.000000       0.000000   
+3             704.53        367.52       258.37     36.672675       1.205128   
+4               0.00        367.52       -66.60      0.000000       0.000000   
+
+   SalesToPurchaseRatio  
+0              3.488160  
+1              0.110250  
+2              0.000000  
+3              1.579097  
+4              0.000000  
+2026-11-04 03:38:56,394 - INFO - Ingesting Data
+2026-11-04 03:38:56,394 - INFO - Saving vendor_sales_summary into database
+2026-11-04 03:38:56,462 - INFO - vendor_sales_summary saved successfully
+2026-11-04 03:38:56,462 - INFO - Vendor Summary Completed
+2026-11-04 03:38:56,476 - INFO - Total execution time: 0.24 seconds
+2026-11-04 03:55:03,251 - ERROR - No such comm target registered: jupyter.widget.control
+2026-11-04 03:55:03,253 - WARNING - No such comm: 6b34b508-c475-4ce5-b463-0d57cb0a9103
+2026-11-04 03:55:03,253 - DEBUG - Current comms: []
